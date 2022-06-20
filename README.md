@@ -1,6 +1,6 @@
 ### 👋 Hello there! 
 
-<img src=" alt="Banner Jesús Franco">
+<img src="https://raw.githubusercontent.com/yesu95/jesusfranco/main/banner1.png" alt="Banner Jesús Franco">
 
 My name is Jesús.
 Web developer.
