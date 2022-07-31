@@ -2,8 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/yesu95/jesusfranco/main/banner.png" alt="Banner Jesús Franco" height="200">
 
-My name is Jesús.
-Web developer.
+My name is Jesús, a Web developer.
 
 I have always been interested in everything related to web development,
 from the creativity of the design to the most technical part of the code.
