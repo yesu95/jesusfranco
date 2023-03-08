@@ -1,13 +1,12 @@
 ### 👋 Hello there! 
 
-My name is Jesús, a Web developer.
+Mi nombre es Jesús Franco y soy desarrollador web y técnico de sistemas microinformáticos y redes.
 
-I have always been interested in everything related to web development,
-from the creativity of the design to the most technical part of the code.
+Soy un apasionado del desarrollo y diseño web, con una actitud proactiva y entusiasta. Siempre estoy buscando nuevas oportunidades y retos para seguir creciendo profesionalmente. Me motiva aprender nuevas tecnologías y herramientas para mejorar mi desempeño en el desarrollo web. Además, me considero una persona colaborativa y adaptable, capaz de trabajar en equipo y de aportar soluciones innovadoras.
 
 ### 🏅 Skills
 
-HTML / CSS / WordPress / Shopify / Adobe Photoshop
+HTML / CSS / JavaScript / WordPress / Adobe Photoshop
 
 ####
 
