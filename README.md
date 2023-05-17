@@ -10,6 +10,6 @@ HTML / CSS / JavaScript / GSAP / WordPress / Adobe Photoshop
 
 ####
 
-👤 <a href="https://www.linkedin.com/in/jesusfrancohueso" target="_blank">LinkedIn</a>
+👤 <a href="https://www.linkedin.com/in/jesusfrancohueso">LinkedIn</a>
 
-📋 <a href="https://jesusfrancodesign.com" target="_blank">Portfolio</a>
+📋 <a href="https://jesusfrancodesign.com">Portfolio</a>
