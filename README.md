@@ -6,7 +6,7 @@ Soy un apasionado del desarrollo y diseño web, con una actitud proactiva y entu
 
 ### 🏅 Skills
 
-HTML / CSS / JavaScript / WordPress / Adobe Photoshop
+HTML / CSS / JavaScript / GSAP / WordPress / Adobe Photoshop
 
 ####
 
